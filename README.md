@@ -48,15 +48,16 @@ Here are some ideas to get you started:
 
 ---
 
-<!--
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  
-  <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=marcopra&theme=highcontrast&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></p>
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcopra&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
--->
+<hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+ <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=marcopra&theme=highcontrast&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></p>
+
+
+
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcopra&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=6" alt="ovi" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcopra&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="ovi" width="410" /></p>
+
