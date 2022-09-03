@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🎓 &nbsp;I'm currently studying Artificial Intelligence and Data Analytics student at Politecnico di Torino @PoliTO\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, Deep Learning and Reinforcement Learning.\
 🔭 &nbsp;I’m currently working on small projects related to Reinforcement Learning\
-📫 &nbsp;Feel free to reach me at marco.prattico@studenti.polito.it or marco.prattico@live.it\
+📫 &nbsp;Feel free to reach me at marco.prattico[at]studenti.polito.it or marco.prattico[at]live.it\
 📄 &nbsp;Please have a look at my [CV](https://github.com/marcopra/marcopra/blob/main/Marco_Prattico_CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ---
