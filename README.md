@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🌱 &nbsp;I'm on track to study how to improve generalization in Reinforcement Learning and Robot Learning.\
 📚 &nbsp;In 2023, I obtained my MSc degree in Computer Science - Artificial Intelligence and Data analytics @[PoliTo](https://www.polito.it/)\
 🤖 &nbsp;In the past, I was a member of [RoboTO](https://www.teamroboto.it) and I worked on Robot Path Planning using Reinforcement Learning\
-📫 &nbsp;Feel free to reach me at marco.prattico[at]studenti.polito.it or marco.prattico[at]live.it\
+📫 &nbsp;Feel free to reach me at marco.prattico[at]iit.it or marco.prattico[at]live.it\
 📄 &nbsp;Please have a look at my [CV](https://github.com/marcopra/marcopra/blob/main/Marco_Prattico_CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ---
