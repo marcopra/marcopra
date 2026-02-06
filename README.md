@@ -48,21 +48,5 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github&logoColor=ffffff)
 ![Latex](https://img.shields.io/badge/-Latex-008080?style=flat-square&logo=latex&logoColor=ffffff)
 
----
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <img src="./assets/git.gif" width="30" alt="Git"/>
-  <i><b>Git Activeness</b></i>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=marcopra&theme=highcontrast&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcopra&hide=Jupyter%20Notebook&layout=compact&theme=chartreuse-dark&langs_count=6&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=marcopra&show_icons=true&theme=chartreuse-dark&count_private=true&cache_seconds=1800" width="410"/>
-</p>
 
